@@ -1,0 +1,17 @@
+# Environment and secrets
+.env
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Runtime log file (may contain URLs/filenames - review before sharing)
+assistant_log.json
+
+# OS
+.DS_Store
